@@ -1,0 +1,10 @@
+﻿Build started 7/24/2015 5:07:27 PM.
+     1>Project "C:\Users\Mr Minecraft\Downloads\200715\200715\client\client\client.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files\Java\jdk1.7.0_80\include\win32" /I"C:\Program Files\Java\jdk1.7.0_80\include" /IC:\poco\bin /I"C:\voce-0.9.1\src\c++" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\client.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt client.cpp
+         client.cpp
+     1>Done Building Project "C:\Users\Mr Minecraft\Downloads\200715\200715\client\client\client.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.45

@@ -3,7 +3,7 @@ project
 this is my project for my science fair 
 it uses voce and poco
 liscenced under GPLv3
- An Artificial Intelligence Program Called CAST(completely automated self thinking ai).
+ An Artificial Intelligence Program Called CAST (completely automated self thinking ai).
     Copyright (C) 2015  Mukund
 
     This program is free software: you can redistribute it and/or modify
